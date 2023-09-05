@@ -1,6 +1,6 @@
 <img src="logos/logo_uerj_color.jpeg" width="10%">
 
-Esse repositório armazena o material do curso de **Álgebra Linear: Aspectos Teóricos e Computacional** da *Universidade do Estado do Rio de Janeiro - UERJ*, ministrado pelo Prof. Americo Cunha (www.americocunha.org). Estão disponíveis os slides das aulas teóricas e os scrips utilizados nas atividades práticas de computação científica, sendo esses implementados no ambiente GNU Octave (https://www.gnu.org/software/octave)
+Esse repositório armazena o material do curso de **Álgebra Linear: Aspectos Teóricos e Computacionais** da *Universidade do Estado do Rio de Janeiro - UERJ*, ministrado pelo Prof. Americo Cunha (www.americocunha.org). Estão disponíveis os slides das aulas teóricas e os scrips utilizados nas atividades práticas de computação científica, sendo esses implementados no ambiente GNU Octave (https://www.gnu.org/software/octave)
 
 ## Licença
 
